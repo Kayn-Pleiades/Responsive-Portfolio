@@ -35,4 +35,9 @@ I moved the container and played around with columns for a bit.
 After being told by my instructor that it didn't need to look like the example, only function the same, I decided I want my box to chill in the center of the page. Having it to the side like the example makes me want to add a transparent picture down in the right corner, as that was the format of many of my tumblr layouts. It's fun, but this is for a portfolio. Nice and centered just feels like the way to go.
 After much research on the bootstrap site, I also figured out how to add a sticky footer! 
 
+### Commit 7: Index Layout finished
+I finished the basic layout for the index page and added some personal touches such as colors, rounding the image, and a background.
+
 ## credits
+
+Background image from https://www.toptal.com/designers/subtlepatterns 

@@ -42,6 +42,11 @@ I finished the basic layout for the index page and added some personal touches s
 I started by continuing my customization. I want my basic page template finished so I can apply it to the other pages.
 With this being a reflection of me, I knew I wanted scallop borders. At first I tried using a background image on the header and footer elements, but I wasn't satisfied with the result. So instead, I researched how to make scallops with CSS!
 
+### Commit 9: Other Pages Implimented 
+Started work on the other pages!
+Put in all the links and then put in the content of the other pages. The last required thing to do is write my bio.
+I will also add a few more photos, but I have to get them off my older, dying laptop, so I'll get back to that later.
+
 ## credits
 
 Background image from https://www.toptal.com/designers/subtlepatterns 

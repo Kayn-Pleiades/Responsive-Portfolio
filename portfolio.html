@@ -1,11 +1,76 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-us">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+
+    <title>Kayn Kale | Portfolio</title>
+
+    <!-- Link to Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./Assets/CSS/custom-styling.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap">
 </head>
+
 <body>
-    
+   
+    <!-- Header/Navbar -->
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light">
+        <a class="navbar-brand" href="index.html">Kayn Kale</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li> 
+                <li class="nav-item active">
+                    <a class="nav-link" href="portfolio.html">Portfolio<span class="sr-only">(current)</span></a>
+                </li> 
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">About</a>  
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main -->
+    <main class="main">
+        <div class="container-fluid">
+            <div class="row my-5 py-5 justify-content-center">
+                <div class="col-md-8">
+                    <div class="p-3 border bg-light">
+                        <h1>Portfolio</h1>
+                        <hr>
+                        <div class="row">
+                            <div class="col-4 col-sm-6">
+                                <img src="./Assets/Images/Pearce and Toast.png" class="img-fluid img-thumbnail" alt="A man and a standard poodle.">
+                                <img src="./Assets/Images/Toast.png" class="img-fluid img-thumbnail" alt="A standard poodle.">
+                            </div>
+                            <div class="col-4 col-sm-6">
+                                <img src="./Assets/Images/Fall.png" class="img-fluid img-thumbnail" alt="A woman inspecting fall leaves">
+                                <img src="./Assets/Images/Megan.png" class="img-fluid img-thumbnail" alt="A pretty woman stands next to a river.">
+                                <img src="./Assets/Images/Cutie.png" class="img-fluid img-thumbnail" alt="A pretty woman stands with tree branches.">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="row justify-content-center">
+                <span class="text-muted">©2020 Kayn Kale</span>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Needed Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 </body>
 </html>

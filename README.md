@@ -38,6 +38,11 @@ After much research on the bootstrap site, I also figured out how to add a stick
 ### Commit 7: Index Layout finished
 I finished the basic layout for the index page and added some personal touches such as colors, rounding the image, and a background.
 
+### Commit 8: More Aesthetic Changes
+I started by continuing my customization. I want my basic page template finished so I can apply it to the other pages.
+With this being a reflection of me, I knew I wanted scallop borders. At first I tried using a background image on the header and footer elements, but I wasn't satisfied with the result. So instead, I researched how to make scallops with CSS!
+
 ## credits
 
 Background image from https://www.toptal.com/designers/subtlepatterns 
+Reference for making scallops https://stackoverflow.com/questions/40414627/css-scalloped-border-for-image-using-radial-gradients 

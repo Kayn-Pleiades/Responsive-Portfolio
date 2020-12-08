@@ -12,15 +12,15 @@ This time I made a homepage for myself! I took care to make sure it was somethin
 
 Here are some images!
 
-![screenshot of my homepage, large](./assets/images/Capture1)
-![screenshot of contact page, large](./assets/images/Capture2)
-![screenshot of my portfolio, large](./assets/images/Capture3)
-![screenshot of my homepage, medium](./assets/images/Capture4)
-![screenshot of contact page, medium](./assets/images/Capture5)
-![screenshot of my portfolio, medium](./assets/images/Capture6)
-![screenshot of my homepage, small](./assets/images/Capture7)
-![screenshot of contact page, small](./assets/images/Capture8)
-![screenshot of my portfolio, small](./assets/images/Capture9)
+![screenshot of my homepage, large](https://github.com/Kayn-Pleiades/Responsive-Portfolio/blob/main/Assets/Images/Capture1.PNG)
+![screenshot of contact page, large](https://github.com/Kayn-Pleiades/Responsive-Portfolio/blob/main/Assets/Images/Capture2.PNG)
+![screenshot of my portfolio, large](https://github.com/Kayn-Pleiades/Responsive-Portfolio/blob/main/Assets/Images/Capture3.PNG)
+![screenshot of my homepage, medium](https://github.com/Kayn-Pleiades/Responsive-Portfolio/blob/main/Assets/Images/Capture4.PNG)
+![screenshot of contact page, medium](https://github.com/Kayn-Pleiades/Responsive-Portfolio/blob/main/Assets/Images/Capture5.PNG)
+![screenshot of my portfolio, medium](https://github.com/Kayn-Pleiades/Responsive-Portfolio/blob/main/Assets/Images/Capture6.PNG)
+![screenshot of my homepage, small](https://github.com/Kayn-Pleiades/Responsive-Portfolio/blob/main/Assets/Images/Capture7.PNG)
+![screenshot of contact page, small](https://github.com/Kayn-Pleiades/Responsive-Portfolio/blob/main/Assets/Images/Capture8.PNG)
+![screenshot of my portfolio, small](https://github.com/Kayn-Pleiades/Responsive-Portfolio/blob/main/Assets/Images/Capture9.PNG)
 
 ## process
 
@@ -61,6 +61,9 @@ I will also add a few more photos, but I have to get them off my older, dying la
 
 ### Commit 10: Finishing Up
 Wrote my about and added a social media link. Going to finish up my documentation, and then submit!
+
+### Commit 11: Fixed Readme
+Having trouble getting the screenshots to work, so hopefully this fixes them!
 
 ## credits
 

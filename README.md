@@ -8,7 +8,19 @@
 
 ## description 
 
+This time I made a homepage for myself! I took care to make sure it was something that I could not only feel proud of, but that also shows my personalitly. 
 
+Here are some images!
+
+![screenshot of my homepage, large](./assets/images/Capture1)
+![screenshot of contact page, large](./assets/images/Capture2)
+![screenshot of my portfolio, large](./assets/images/Capture3)
+![screenshot of my homepage, medium](./assets/images/Capture4)
+![screenshot of contact page, medium](./assets/images/Capture5)
+![screenshot of my portfolio, medium](./assets/images/Capture6)
+![screenshot of my homepage, small](./assets/images/Capture7)
+![screenshot of contact page, small](./assets/images/Capture8)
+![screenshot of my portfolio, small](./assets/images/Capture9)
 
 ## process
 
@@ -46,6 +58,9 @@ With this being a reflection of me, I knew I wanted scallop borders. At first I 
 Started work on the other pages!
 Put in all the links and then put in the content of the other pages. The last required thing to do is write my bio.
 I will also add a few more photos, but I have to get them off my older, dying laptop, so I'll get back to that later.
+
+### Commit 10: Finishing Up
+Wrote my about and added a social media link. Going to finish up my documentation, and then submit!
 
 ## credits
 

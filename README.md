@@ -89,6 +89,9 @@ Added all my work history.
 ### Commit 19: Sections
 Added the rest of needed Resume Sections
 
+### Commit 20: Education
+Added my education details
+
 ## credits
 
 Background image from https://www.toptal.com/designers/subtlepatterns 

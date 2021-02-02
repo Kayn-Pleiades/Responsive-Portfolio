@@ -80,6 +80,9 @@ Added my skills
 ### Commit 16: Cards
 Started adding work experience as cards
 
+### Commit 17: Card Layout
+Made the layout for all the work cards. 
+
 ## credits
 
 Background image from https://www.toptal.com/designers/subtlepatterns 

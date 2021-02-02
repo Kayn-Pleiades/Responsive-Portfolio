@@ -72,6 +72,10 @@ Made updates to existing pages, started the process of my new resume page.
 Going with a collapable format so all the information is neat and tidy
 
 ### Commit 14: Contact Info
+Added my contact info as a table
+
+### Commit 15: Skills
+Added my skills 
 
 ## credits
 

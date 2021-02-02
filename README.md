@@ -71,6 +71,8 @@ Made updates to existing pages, started the process of my new resume page.
 ### Commit 13: Resume Format
 Going with a collapable format so all the information is neat and tidy
 
+### Commit 14: Contact Info
+
 ## credits
 
 Background image from https://www.toptal.com/designers/subtlepatterns 

@@ -65,6 +65,9 @@ Wrote my about and added a social media link. Going to finish up my documentatio
 ### Commit 11: Fixed Readme
 Having trouble getting the screenshots to work, so hopefully this fixes them!
 
+### Commit 12: Updates
+Made updates to existing pages, started the process of my new resume page. 
+
 ## credits
 
 Background image from https://www.toptal.com/designers/subtlepatterns 

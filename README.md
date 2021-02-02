@@ -83,6 +83,9 @@ Started adding work experience as cards
 ### Commit 17: Card Layout
 Made the layout for all the work cards. 
 
+### Commit 18: Work History
+Added all my work history.
+
 ## credits
 
 Background image from https://www.toptal.com/designers/subtlepatterns 

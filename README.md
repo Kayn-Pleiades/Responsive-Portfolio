@@ -92,6 +92,9 @@ Added the rest of needed Resume Sections
 ### Commit 20: Education
 Added my education details
 
+### Commit 21: Samples
+Added Samples of my Work
+
 ## credits
 
 Background image from https://www.toptal.com/designers/subtlepatterns 

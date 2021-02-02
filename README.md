@@ -86,6 +86,9 @@ Made the layout for all the work cards.
 ### Commit 18: Work History
 Added all my work history.
 
+### Commit 19: Sections
+Added the rest of needed Resume Sections
+
 ## credits
 
 Background image from https://www.toptal.com/designers/subtlepatterns 

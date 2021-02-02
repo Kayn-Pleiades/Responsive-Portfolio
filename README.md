@@ -68,6 +68,9 @@ Having trouble getting the screenshots to work, so hopefully this fixes them!
 ### Commit 12: Updates
 Made updates to existing pages, started the process of my new resume page. 
 
+### Commit 13: Resume Format
+Going with a collapable format so all the information is neat and tidy
+
 ## credits
 
 Background image from https://www.toptal.com/designers/subtlepatterns 

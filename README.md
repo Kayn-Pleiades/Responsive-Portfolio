@@ -77,6 +77,9 @@ Added my contact info as a table
 ### Commit 15: Skills
 Added my skills 
 
+### Commit 16: Cards
+Started adding work experience as cards
+
 ## credits
 
 Background image from https://www.toptal.com/designers/subtlepatterns 

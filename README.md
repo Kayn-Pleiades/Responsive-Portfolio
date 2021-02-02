@@ -1,5 +1,7 @@
 # Responsive-Portfolio
 
+Deployment: https://kayn-pleiades.github.io/Responsive-Portfolio/
+
 ## Table of Contents
 
 * [Description](#description)
@@ -94,6 +96,9 @@ Added my education details
 
 ### Commit 21: Samples
 Added Samples of my Work
+
+### Commit 22: Final
+Made final edits (for now)
 
 ## credits
 
